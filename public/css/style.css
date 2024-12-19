@@ -1,0 +1,68 @@
+/* 
+    SMALL
+*/
+
+/* navbar icons */
+.icon-sm {
+    font-size: 2rem;
+}
+
+.xsmall {
+    font-size: 0.65rem;
+}
+
+.avatar-sm{
+    width: 2rem;
+    height: 2rem;
+    object-fit: cover;
+}
+
+/* 
+    MEDIUM
+*/
+.icon-md{
+    font-size: 3.5rem;
+}
+
+.avatar-md{
+    width: 3.5rem;
+    height: 3.5rem;
+    object-fit: cover;
+}
+
+
+
+/* 
+    LARGE
+*/
+/* delete post (modal) */
+/* admin/posts/index.blade.php */
+/* hide post (modal) */
+.image-lg{
+    width: 9rem;
+    height: 9rem;
+    object-fit: cover;
+}
+
+.avatar-lg{
+    width: 9rem;
+    height: 9rem;
+    object-fit: cover;
+}
+
+.icon-lg{
+    font-size: 9rem;
+}
+
+/* Like Button */
+.fa-heart{
+    font-size: 1.5rem
+}
+
+/* Profile page grid image */
+.grid-img{
+    width: 100%;
+    height: 300px;
+    /* Height is not dynamic. Optimized for widescreen */
+    object-fit: cover;
+}
